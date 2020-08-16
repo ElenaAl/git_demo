@@ -1,0 +1,5 @@
+#correct version
+*.db
+*.log 
+target/
+bin/
